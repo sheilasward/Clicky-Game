@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Anna",
+      "image": "/assets/princess-images/Ana.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Ariel",
+      "image": "/assets/princess-images/Ariel.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Belle",
+      "image": "/assets/princess-images/Beauty_and_strong_Belle.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Cinderella",
+      "image": "/assets/princess-images/CinderellaBarefoot.png",
+      "clicked": false
+    },
+    {
+    "id": 5,
+    "name": "Elsa",
+    "image": "/assets/princess-images/Elsa.png",
+    "clicked": false
+    },
+    {
+    "id": 6,
+    "name": "Jasmine",
+    "image": "/assets/princess-images/Jasmine_render.png",
+    "clicked": false
+    },
+    {
+    "id": 7,
+    "name": "Mulan",
+    "image": "/assets/princess-images/Mulan-lantern.png",
+    "clicked": false
+    },
+    {
+    "id": 8,
+    "name": "Pocahontas",
+    "image": "/assets/princess-images/pocahontas-meeko2.png",
+    "clicked": false
+    },
+    {
+    "id": 9,
+    "name": "Rapunzel",
+    "image": "/assets/princess-images/Rapunzel.png",
+    "clicked": false
+    },
+    {
+    "id": 10,
+    "name": "Sleeping Beauty",
+    "image": "/assets/princess-images/SleepingBeauty.png",
+    "clicked": false
+    },
+    {
+    "id": 11,
+    "name": "Snow White",
+    "image": "/assets/princess-images/Snow_white_transparent.png",
+    "clicked": false
+    },
+    {
+    "id": 12,
+    "name": "Tiana",
+    "image": "/assets/princess-images/Tiana.12.png",
+    "clicked": false
+    }
+  ]
+  

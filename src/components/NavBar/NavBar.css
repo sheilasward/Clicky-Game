@@ -1,0 +1,33 @@
+.NavBarStyling {
+    background: #6CADDC;
+    color: white;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+.nav1 {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left:1em;
+}
+
+.nav2 {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 25px;
+    padding-left:1em;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+ 
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
